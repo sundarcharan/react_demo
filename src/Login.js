@@ -28,6 +28,7 @@ export default function Login() {
           Login
         </Button>
       </Form>
+      <hr />
     </div>
   );
 }
